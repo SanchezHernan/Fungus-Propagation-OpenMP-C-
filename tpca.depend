@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641911479 source:c:\users\xhern\onedrive\documentos\tpca\main.cpp
+	<omp.h>
+	<iostream>
+	<time.h>
+	<string.h>
+
